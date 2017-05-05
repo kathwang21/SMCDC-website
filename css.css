@@ -1,0 +1,14 @@
+.logo{
+padding-top: 10px;
+display:inline-block;
+}
+
+.navbar ul{
+display:inline-block;
+margin-top: 5px;
+
+}
+
+.nav {
+float: right;
+}
